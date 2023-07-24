@@ -1,10 +1,10 @@
 # Projeto Blizzard
 
-![Tela inicial do projeto](/assets/Projeto-Blizzard-Codeboost-redme.png)
+![Tela inicial do projeto](/assets/Projeto-Pokemon-Codeboost.png)
 
 ## Descrição
 
-Projeto que traz o Gulp como protagonista, trazendo automatização de funções e ferramentas essenciais para o desenvolvimento do projeto.
+Projeto que tem um ponto importantíssimo, que seria o uso de API, para usufluir de seus recursos presentes, e com uma tela que fazz uma boa apresentação dos dados obtidos via API.
 
 ## Tecnologias
 
@@ -18,7 +18,7 @@ Projeto que traz o Gulp como protagonista, trazendo automatização de funções
 
 1. Clone este repositório em sua máquina local.
    ```shell
-   git clone https://github.com/Willian-Katz/projeto-blizzard
+   git clone https://github.com/Willian-Katz/projeto-pokemon
 
 1. Intale as dependencias do projeto.
    ```shell
