@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Projeto que tem um ponto importantíssimo, que seria o uso de API, para usufluir de seus recursos presentes, e com uma tela que fazz uma boa apresentação dos dados obtidos via API.
+Projeto que tem um ponto importantíssimo, que seria o uso de API, para usufluir de seus recursos presentes, uma tela que faz uma boa apresentação dos dados obtidos via API. E também alguns detalhes commo métodos de filtragem, avisos, etc...
 
 ## Tecnologias
 
@@ -13,6 +13,9 @@ Projeto que tem um ponto importantíssimo, que seria o uso de API, para usufluir
 - Sass
 - GulpJs
 - NpmJs
+- SwiperJs
+- SweetAlert
+- PokeAPI
 
 ## Instalação
 
